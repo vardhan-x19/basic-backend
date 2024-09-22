@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "first.js",
+  "scripts": {
+    "test": "npm run start"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "harshavardhan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
